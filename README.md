@@ -5,14 +5,13 @@
 |                                         | 用途                 |
 |-----------------------|-----------------------|
 |git clone {url}                          |	リモートからローカルにコピー    | 
-|git add .	                              |                         |
-|git commit 	                            |                         |
-|git push	                                |                         |
+|git add .	                              |  共有するファイルを選択する     |
+|git commit 	                            |  変更したファイルをGitに登録    |
+|git push	                                |  local repository→ remote repository |
 |git switch	                              | ブランチ切り替え            |
 |git switch -c	                          | ブランチ作成&切り替え        |
 |git branch　                              | 今いるブランチを確認する      |
-|git checkout -b {branch}                 |	ブランチ作成&切り替え        |
-|git pull origin develop --rebase	        | ブランチを最新の状態にする    | 
+|git pull origin ブランチ名 --rebase	        | ブランチを最新の状態にする    | 
 
 `--rebase`ってしているのは `git pull` をしたときに不要なコミットを防ぐためです。
 
