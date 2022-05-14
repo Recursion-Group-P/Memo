@@ -26,3 +26,5 @@
 - [質問の仕方](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)
 
 - [Whimsical folder](https://whimsical.com/recursion-group-k-UW7zYZzDjCJWgqJYySxXBv)
+- [Vue CLI install](https://cli.vuejs.org/guide/installation.html)
+- [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
