@@ -15,6 +15,12 @@
 
 `--rebase`ってしているのは `git pull` をしたときに不要なコミットを防ぐためです。
 
+git pull origin ブランチ名 --rebaseしたあとにnode_modulesがないとエラーを吐きます。
+```
+npm install
+```
+でnode_modulesを作成できます（はじめてgit cloneしたときは含まれていない）
+
 ### その他のリンク
 
 - [コミットメッセージの書き方について](https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e)
