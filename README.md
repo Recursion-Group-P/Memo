@@ -19,7 +19,7 @@ git pull origin ブランチ名 --rebaseしたあとにnode_modulesがないと�
 ```
 npm install
 ```
-でnode_modulesを作成できます（はじめてgit cloneしたときは含まれていない）
+でnode_modulesを作成できます（はじめてgit cloneしたときは含まれていないので必ず必要）
 
 ### その他のリンク
 
