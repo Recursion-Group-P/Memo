@@ -53,4 +53,24 @@
 ![piece](https://user-images.githubusercontent.com/68522105/168458011-d907b9bb-1a6f-475e-a608-67e4d80dc6c5.png)
 
 
-
+1. i1
+2. i2
+3. i3
+4. v3
+5. i4
+6. J4
+7. Square
+8. z4
+9. T4
+10. c
+11. w
+12. i5
+13. J5
+14. T5
+15. v5
+16. x
+17. k5
+18. z5
+19. z5wide
+20. p
+21. y
