@@ -48,5 +48,9 @@
 - 設定の開始位置のオプションに中央・どこでものオプションを追加
 
 
+## ブロックの命名
+
+![piece](https://user-images.githubusercontent.com/68522105/168458011-d907b9bb-1a6f-475e-a608-67e4d80dc6c5.png)
+
 
 
